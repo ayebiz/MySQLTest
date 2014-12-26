@@ -1,0 +1,5 @@
+C:\Users\alber_000\AndroidStudioProjects\MySQLTest\app\build\intermediates\classes\debug
+C:\Users\alber_000\AndroidStudioProjects\MySQLTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-685b42712ed78873ca1201f567397f9d82baf68b.jar
+C:\Users\alber_000\AndroidStudioProjects\MySQLTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-bce48de4e2a3031003cbe3459bae684dfc06b114.jar
+C:\Users\alber_000\AndroidStudioProjects\MySQLTest\app\build\intermediates\pre-dexed\debug\classes-d500f722049b7c01eece33a1ef63dbc6a3092fee.jar
+C:\Users\alber_000\AndroidStudioProjects\MySQLTest\app\build\intermediates\pre-dexed\debug\classes-5f47b0d4197514d7dc2e0d7a12647f2e8f79d3e4.jar
